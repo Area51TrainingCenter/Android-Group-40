@@ -1,0 +1,2 @@
+- MyFirstApp: Uso de Intents para ir hacia otro Activity y compartir contenido. Uso de Menú.
+- Airplanemodedetector: Aplicación para detectar si el modo avión está activado.
