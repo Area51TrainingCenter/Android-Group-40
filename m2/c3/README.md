@@ -1,0 +1,2 @@
+- ListandContent: Ejemplo de cómo distribuir dinámicamente 2 fragments tanto en modo "landscape" como "portrait".
+- LocationApp: Sobre cómo utilizar el servicio de ubicación de Android (Android Location Service).
