@@ -1,0 +1,2 @@
+- AccelerometerTest: Ejemplo del servicio de sensores (Sensor Service) con acelerómetro.
+- ListandContent: Ejemplo de detalle y contenido con base de datos SQLite.
